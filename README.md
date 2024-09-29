@@ -16,3 +16,6 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 - **Firmware and Hardware Technologies:** RTOS, FreeRTOS, STM32, ESP32, Raspberry Pi, PCB Design
 - **Communication Protocols:** USB, TCP/IP, PCIe, UART, I2C, MQTT
 
+### 📊 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
