@@ -9,7 +9,7 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 - 🤝 I am keen on collaborating on projects that integrate **embedded systems**, **AI**, and **IoT applications**.
 - 💬 Feel free to ask me about **embedded systems**, **AI/Machine Learning**, or any **IoT application** queries.
 - 📫 Connect with me: [chunyu.wang3739@outlook.com](mailto:chunyu.wang3739@outlook.com) | [LinkedIn](https://www.linkedin.com/in/shycw1/)
-// - 🌐 Explore my [Project Portfolio](https://johnnywang3739.github.io).
+
 
 ### 🛠️ Technical Skills
 - **Programming Languages:** Python, Java, C/C++, JavaScript, SQL
