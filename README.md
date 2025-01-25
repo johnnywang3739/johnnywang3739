@@ -18,7 +18,7 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 
 ### 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%207%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -41,5 +41,5 @@ Windows                  2 hrs 43 mins       ███████████�
 ```
 
 
- Last Updated on 24/01/2025 00:26:21 UTC
+ Last Updated on 25/01/2025 00:25:33 UTC
 <!--END_SECTION:waka-->
