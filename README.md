@@ -18,6 +18,26 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 
 ### 📊 WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2038%20mins-blue)
 
- Last Updated on 23/09/2025 00:29:05 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Text                     3 hrs 36 mins       ███████████████░░░░░░░░░░   59.51 % 
+Batchfile                1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Diff                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+XML                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+
+🔥 Editors: 
+Cursor                   6 hrs 4 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/09/2025 00:29:38 UTC
 <!--END_SECTION:waka-->
