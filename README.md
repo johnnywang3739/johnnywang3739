@@ -26,19 +26,15 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     58 mins             ██████████████░░░░░░░░░░░   57.69 % 
-Text                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Groovy                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/12/2025 00:31:44 UTC
+ Last Updated on 21/12/2025 00:36:14 UTC
 <!--END_SECTION:waka-->
