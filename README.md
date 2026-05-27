@@ -26,15 +26,15 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SSH Config               6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 01:03:22 UTC
+ Last Updated on 27/05/2026 01:06:58 UTC
 <!--END_SECTION:waka-->
