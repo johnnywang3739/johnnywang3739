@@ -1,6 +1,6 @@
 ## Hello, I'm Johnny Wang (Chunyu) 👋
 
-### Embedded Software Developer | MEng in Computer Engineering, UBC
+### IoT Engineer | Embedded Software Developer | MEng in Computer Engineering, UBC
 
 I recently graduated with a Master's degree in Computer Engineering from the **University of British Columbia**, specializing in Machine Learning and software applications. I also hold a Bachelor's degree with First Class Honours in Electrical and Electronic Engineering from the **University of Nottingham**. My academic and professional journey has significantly sharpened my skills in firmware development and propelled my expertise in advanced computing systems.
 
