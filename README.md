@@ -8,7 +8,7 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 - 🌱 Currently delving into **cloud computing** and **IoT security** to address the challenges of ubiquitous computing.
 - 🤝 I am keen on collaborating on projects that integrate **embedded systems**, **AI**, and **IoT applications**.
 - 💬 Feel free to ask me about **embedded systems**, **AI/Machine Learning**, or any **IoT application** queries.
-- 📫 Connect with me: [chunyu.wang3739@outlook.com](mailto:chunyu.wang3739@outlook.com) | [LinkedIn](https://www.linkedin.com/in/shycw1/)
+- 📫 Connect with me: [chunyu.wang3739@outlook.com](mailto:chunyu.wang3739@outlook.com) | [LinkedIn](https://www.linkedin.com/in/shycw1/) | [My Portfolio](https://johnnywang3739.github.io)
 
 
 ### 🛠️ Technical Skills
