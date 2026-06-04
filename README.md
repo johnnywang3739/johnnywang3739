@@ -13,7 +13,7 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 
 ### 🛠️ Technical Skills
 - **Programming Languages:** Python, Java, C/C++, JavaScript, SQL
-- **Firmware and Hardware Technologies:** RTOS, FreeRTOS, STM32, ESP32, Raspberry Pi, PCB Design
+- **Firmware and Hardware Technologies:** Yocto/Ubuntu/Debian Linux, RTOS, FreeRTOS, STM32, ESP32, Schematics Review and Analysis
 - **Communication Protocols:** USB, TCP/IP, PCIe, UART, I2C, MQTT
 
 ### 📊 WakaTime Stats
