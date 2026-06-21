@@ -26,20 +26,20 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C                        43 mins             ██████████████████████░░░   89.77 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+C                        43 mins             ███████████████████░░░░░░   74.26 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+C++                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  47 mins             ████████████████████████░   96.79 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+VS Code                  55 mins             ████████████████████████░   94.97 % 
+Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.00 % 
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 01:08:58 UTC
+ Last Updated on 21/06/2026 01:17:19 UTC
 <!--END_SECTION:waka-->
