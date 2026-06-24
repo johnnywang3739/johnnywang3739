@@ -18,7 +18,7 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 
 ### 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,21 +26,21 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C++                      4 hrs 8 mins        ████████████████████░░░░░   79.34 % 
-C                        53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C++                      7 hrs               ███████████████████████░░   92.55 % 
+C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 26 mins       █████████████████████░░░░   84.85 % 
-Cursor                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Claude Code              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+VS Code                  7 hrs 3 mins        ███████████████████████░░   93.21 % 
+Cursor                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2026 01:03:36 UTC
+ Last Updated on 24/06/2026 01:01:48 UTC
 <!--END_SECTION:waka-->
