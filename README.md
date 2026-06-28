@@ -26,21 +26,21 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C++                      7 hrs               ███████████████████████░░   92.55 % 
-C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+C++                      6 hrs 54 mins       ███████████████████████░░   93.46 % 
+C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 3 mins        ███████████████████████░░   93.21 % 
-Cursor                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+VS Code                  6 hrs 54 mins       ███████████████████████░░   93.40 % 
+Cursor                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Claude Code              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Mac                      7 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/06/2026 01:04:39 UTC
+ Last Updated on 28/06/2026 01:10:19 UTC
 <!--END_SECTION:waka-->
