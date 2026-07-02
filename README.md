@@ -18,7 +18,7 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 
 ### 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,19 +26,21 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   28 mins             ████████████████████████░   97.46 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Python                   1 hr 8 mins         █████████████████████████   98.44 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   98.95 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+VS Code                  1 hr 9 mins         █████████████████████████   98.99 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Mac                      21 mins             ██████████████████░░░░░░░   71.99 % 
-Windows                  8 mins              ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Windows                  48 mins             █████████████████░░░░░░░░   69.66 % 
+Mac                      21 mins             ████████░░░░░░░░░░░░░░░░░   30.34 % 
 ```
 
 
- Last Updated on 01/07/2026 01:11:01 UTC
+ Last Updated on 02/07/2026 01:06:35 UTC
 <!--END_SECTION:waka-->
