@@ -18,7 +18,7 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 
 ### 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,22 +26,22 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C                        4 hrs 12 mins       ██████████████████░░░░░░░   70.80 % 
-Python                   1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+C                        4 hrs 30 mins       ████████████████░░░░░░░░░   64.19 % 
+Python                   1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+C++                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 11 mins       ██████████████████░░░░░░░   70.68 % 
-VS Code                  1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Cursor                   4 hrs 46 mins       █████████████████░░░░░░░░   68.04 % 
+VS Code                  2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.68 % 
+Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Windows                  5 hrs 35 mins       ████████████████████████░   94.04 % 
-Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Windows                  6 hrs 39 mins       ████████████████████████░   94.95 % 
+Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 
- Last Updated on 05/07/2026 03:58:05 UTC
+ Last Updated on 06/07/2026 04:04:12 UTC
 <!--END_SECTION:waka-->
