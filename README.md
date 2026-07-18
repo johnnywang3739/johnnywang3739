@@ -26,22 +26,15 @@ I recently graduated with a Master's degree in Computer Engineering from the **U
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C                        2 hrs 3 mins        █████████████░░░░░░░░░░░░   51.78 % 
-Text                     1 hr 42 mins        ███████████░░░░░░░░░░░░░░   43.23 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Text                     1 hr 42 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       ████████████████░░░░░░░░░   64.26 % 
-Cursor                   1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   34.88 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       ████████████████░░░░░░░░░   63.57 % 
-Mac                      1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   36.43 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2026 03:15:39 UTC
+ Last Updated on 18/07/2026 02:52:58 UTC
 <!--END_SECTION:waka-->
